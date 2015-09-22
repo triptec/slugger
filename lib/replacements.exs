@@ -3,9 +3,6 @@
 	# https://github.com/easybook/slugger/blob/master/src/Easybook/Slugger.php
 	# https://github.com/keyvanakbary/slugifier/blob/master/src/Slugifier.php
 
-	# Custom
-	{?Ä, 'A'},{?Ö, 'O'},{?ä, 'a'},{?ö, 'o'},
-
 	# Latin
 	{?°, '0'},{?æ, 'ae'},{?ǽ, 'ae'},{?À, 'A'},{?Á, 'A'},{?Â, 'A'},{?Ã, 'A'},{?Å, 'A'},{?Ǻ, 'A'},{?Ă, 'A'},
 	{?Ǎ, 'A'},{?Æ, 'AE'},{?Ǽ, 'AE'},{?à, 'a'},{?á, 'a'},{?â, 'a'},{?ã, 'a'},{?å, 'a'},{?ǻ, 'a'},{?ă, 'a'},
